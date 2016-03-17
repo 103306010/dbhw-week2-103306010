@@ -110,7 +110,7 @@
   color: 	rgb(192,192,192)  ;
   top: 50%;
   left: 50%;
-  z-index: 500;
+  z-index: 200;
   margin-left: -9%;
   margin-top: -7%;
   font-size: 140px;
